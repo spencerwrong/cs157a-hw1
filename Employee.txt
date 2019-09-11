@@ -1,0 +1,4 @@
+FNAME	LNAME	SALARY	MANAGER_ID
+Bob	Smith	750000	54
+Sally	Jacob	52000	51
+Deepika	Sharma	97534	51
